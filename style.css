@@ -1,4 +1,4 @@
-/*========================This is body css start =============================== */
+/*======================== This is body css start =============================== */
 
 body {
     margin: 0;
@@ -7,15 +7,14 @@ body {
 }
 
 
-/*========================This is body css end =============================== */
+/*======================== This is body css end =============================== */
 
 
-/*========================This is top-banner css start =============================== */
+/*======================== This is top-banner css start =============================== */
 
 .top-banner {
     height: 900px;
     padding: 130px 0;
-    pa
 }
 
 .left-sitebar {
@@ -67,10 +66,10 @@ a.banner-button {
 }
 
 
-/*========================This is top-banner css end =============================== */
+/*======================== This is top-banner css end =============================== */
 
 
-/*========================This is about-section css start =============================== */
+/*======================== This is about-section css start =============================== */
 
 .about-section {
     background-image: url(images/shapes/7.png);
@@ -113,10 +112,10 @@ a.banner-button {
 }
 
 
-/*========================This is about-section css end =============================== */
+/*======================== This is about-section css end =============================== */
 
 
-/*========================This is Recipies section css start =============================== */
+/*======================== This is Recipies section css start =============================== */
 
 .recipies-heading {
     text-align: center;
@@ -193,10 +192,10 @@ a.banner-button {
 }
 
 
-/*========================This is Recipies section css end =============================== */
+/*======================== This is Recipies section css end =============================== */
 
 
-/*========================This is follower section css start =============================== */
+/*======================== This is follower section css start =============================== */
 
 .follower {
     box-shadow: 1px 2px 19px 3px #e4e4e4;
@@ -230,10 +229,10 @@ a.banner-button {
 }
 
 
-/*========================This is follower section css end =============================== */
+/*======================== This is follower section css end =============================== */
 
 
-/*========================This is footer section css start =============================== */
+/*======================== This is footer section css start =============================== */
 
 footer h1 {
     margin: 0 0;
@@ -251,7 +250,7 @@ footer {
 }
 
 footer span {
-    color: orange;
+    color: rgba(243, 147, 3, 0.918);
 }
 
 footer p {
@@ -262,4 +261,4 @@ footer p {
 }
 
 
-/*========================This is footer section css end =============================== */
+/*======================== This is footer section css end =============================== */
