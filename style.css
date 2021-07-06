@@ -1,0 +1,265 @@
+/*========================This is body css start =============================== */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*========================This is body css end =============================== */
+
+
+/*========================This is top-banner css start =============================== */
+
+.top-banner {
+    height: 900px;
+    padding: 130px 0;
+    pa
+}
+
+.left-sitebar {
+    padding-left: 9%;
+    padding-top: 8%;
+    width: 46%;
+    float: left;
+}
+
+.left-sitebar h1 {
+    font-size: 87px;
+    margin: 0 0;
+    line-height: 126px;
+    color: #212121;
+    opacity: 61%;
+}
+
+.left-sitebar h1 span {
+    color: rgb(247 120 12);
+}
+
+.left-sitebar p {
+    font-size: 30px;
+    color: rgb(156 156 156);
+    margin: 14px 0;
+}
+
+.banner-button {
+    padding: 22px 54px;
+    background: linear-gradient( 142deg, #e8cf89, #ff4902);
+    border-radius: 60px;
+    color: #fff;
+    display: inline-block;
+    margin: 50px 0;
+}
+
+a.banner-button {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.right-sitebar {
+    width: 45%;
+    float: right;
+}
+
+.right-sitebar img {
+    width: 100%;
+}
+
+
+/*========================This is top-banner css end =============================== */
+
+
+/*========================This is about-section css start =============================== */
+
+.about-section {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 614px;
+    padding: 100px 0;
+    margin-bottom: 91px;
+}
+
+.about-left-sitebar {
+    width: 40%;
+    float: left;
+    text-align: right;
+}
+
+.about-left-sitebar img {
+    width: 59%;
+}
+
+.about-right-sitebar h1 {
+    font-size: 50px;
+    color: #7d7d7d;
+}
+
+.about-right-sitebar p {
+    font-size: 22px;
+    line-height: 43px;
+    color: #292929;
+    padding-right: 148px;
+}
+
+.about-right-sitebar {
+    width: 45%;
+    float: right;
+}
+
+.about-right-sitebar img {
+    width: 80%;
+}
+
+
+/*========================This is about-section css end =============================== */
+
+
+/*========================This is Recipies section css start =============================== */
+
+.recipies-heading {
+    text-align: center;
+}
+
+.recipies-heading h1 {
+    font-size: 46px;
+    color: #797979;
+    margin: 28px 0;
+}
+
+.recipies-heading p {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.recipies-post {
+    margin: auto;
+    text-align: center;
+    padding: 60px 0;
+}
+
+.recipies-post img {
+    width: 100%;
+}
+
+.coffee-recipies1 {
+    width: 26%;
+    display: inline-block;
+    border: 11px solid #ffffff;
+    padding: 17px;
+    border-radius: 30px;
+    margin-right: 5%;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 22px 1px #cccccc;
+}
+
+.coffee-recipies2 {
+    width: 26%;
+    display: inline-block;
+    border: 11px solid #ffffff;
+    padding: 17px;
+    border-radius: 30px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 22px 1px #cccccc;
+}
+
+.coffee-recipies3 {
+    width: 26%;
+    display: inline-block;
+    border: 11px solid #ffffff;
+    padding: 17px;
+    border-radius: 30px;
+    margin-left: 5%;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 22px 1px #cccccc;
+}
+
+.recipies-post h2 {
+    font-size: 24px;
+    text-align: left;
+}
+
+.recipies-post p {
+    font-size: 22px;
+    text-align: left;
+    line-height: 37px;
+    padding-top: 21px;
+    color: #2f2f2f;
+    font-weight: 300;
+}
+
+
+/*========================This is Recipies section css end =============================== */
+
+
+/*========================This is follower section css start =============================== */
+
+.follower {
+    box-shadow: 1px 2px 19px 3px #e4e4e4;
+    margin: 126px 117px;
+    padding: 97px 0;
+    border-radius: 40px;
+}
+
+.follower-all {
+    width: 32%;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+
+.follower-all h1 {
+    font-size: 60px;
+    font-weight: 600;
+    padding: 0 0;
+    margin: 0 0;
+}
+
+.follower-all p {
+    padding: 0 0px;
+    margin: 0 0px;
+    font-size: 22px;
+    color: #0a0a0a;
+    text-align: center;
+    padding-left: 82px;
+    font-family: 'Poppins';
+}
+
+
+/*========================This is follower section css end =============================== */
+
+
+/*========================This is footer section css start =============================== */
+
+footer h1 {
+    margin: 0 0;
+    font-size: 49px;
+    color: #696969;
+    font-weight: 400;
+}
+
+footer {
+    text-align: center;
+    margin-top: 142px;
+    padding: 35px 0;
+    background: #040f17;
+    height: 230px;
+}
+
+footer span {
+    color: orange;
+}
+
+footer p {
+    color: #ddd;
+    font-weight: 300;
+    font-size: 22px;
+    margin: 20px 0;
+}
+
+
+/*========================This is footer section css end =============================== */
